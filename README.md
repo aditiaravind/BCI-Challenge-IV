@@ -1,6 +1,6 @@
 # BCI-IV
 
-Brain Computer Interfaces has been the object of my obsession for th past few weeks and I've been learning various different algorithms. This repo is the implementation of many of these for the [BCI Competition Dataset](http://www.bbci.de/competition/iv/)  <br>
+Brain Computer Interfaces has been the focus of my neural network obsession for the past few weeks and I've been trying out different algorithms. This repo is the implementation of many of these for the [BCI Competition Dataset](http://www.bbci.de/competition/iv/)  <br>
 I know, I know it's a really old dataset (2008, yikes). <br>
 
 However, as a beginner, these datasets are well processed and have very little artefacts making it easier to focus on the implementation of feep learning models. Additionally, it has been long enough since the competition, that I can 
