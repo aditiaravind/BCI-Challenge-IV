@@ -19,5 +19,5 @@ A few key concepts I've exploited here are :
 
 I've expanded on all these further in the notebooks.<br>
 
-I'll keep posting updates as and when I try different models for each of the datasets.<br>
+I'll keep posting updates as and when I try different models (WAVELETS)<br>
 Contact me for suggestions!
